@@ -6,6 +6,8 @@ page 50110 hiba
     var
         name: text;
 
+   
+
     trigger OnOpenPage()
     var
         myInt: Integer;
