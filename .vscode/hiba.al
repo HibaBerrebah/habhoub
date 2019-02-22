@@ -11,6 +11,6 @@ page 50110 hiba
         myInt: Integer;
     begin
         Message('Hiba :D it is me');
-
+        Message('hiba');
     end;
 }
