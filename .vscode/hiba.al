@@ -10,7 +10,7 @@ page 50110 hiba
     var
         myInt: Integer;
     begin
-        Message('Hiba :D');
+        Message('Hiba :D it is me');
 
     end;
 }
